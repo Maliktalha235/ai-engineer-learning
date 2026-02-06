@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SMS Spam Detector</title>
+</head>
+<body>
+    <h1>SMS Spam Detector</h1>
+    <textarea id="smsText" rows="4" cols="50" placeholder="Type your message here"></textarea><br><br>
+    <button onclick="predictSMS()">Check Spam</button>
+    <h2 id="result"></h2>
+
+    <script>
+        async function predictSMS() {
+            const text = document.getElementById("smsText").value;
+
+            const response = await fetch("http://127.0.0.1:8000/predict", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ text: text })
+
+            });
+
+            const data = await response.json();
+            document.getElementById("result").innerText =
+                `Prediction: ${data.prediction} | Confidence: ${data.confidence}`;
+        }
+    </script>
+</body>
+</html>
