@@ -1,9 +1,11 @@
 # SMS Spam Detector
-A machine learning web application that detects whether an SMS message is spam or not.
+A machine learning basic web application that detects whether an SMS message is spam or not.
 ## Features
-- Uses a pre-trained ML model
-- TF-IDF vectorization
-- Web-based interface using FastAPI
+The model is trained using an end-to-end **ML pipeline** that includes:
+- Text vectorization (TF-IDF)
+- Classification model
+- Saved pipeline for reuse in real-world applications
+The complete pipeline is saved using `joblib` and stored inside the `model/` directory.
 
 ## Tech Stack
 - Python
