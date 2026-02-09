@@ -36,7 +36,6 @@ This repository will be updated gradually with:
 - FastAPI (later)
 
 ## Status
-🚧 Currently learning **Data Scraping & Preprocessing**
+Currently learning **Data Scraping & Preprocessing**
 
-
-📈 This repository will evolve as I grow.
+This repository will evolve as I grow.
