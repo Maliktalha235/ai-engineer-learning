@@ -33,6 +33,7 @@ This repository will be updated gradually with:
 - Pandas, NumPy
 - BeautifulSoup
 - Scikit-learn
+- MySQL
 - FastAPI (later)
 
 ## Status
