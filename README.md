@@ -1,5 +1,5 @@
 
-Hi, I'm Talha 👋  
+Hi, I'm Talha  
 I am an AI Engineer Intern, and this repository documents my step-by-step learning journey toward becoming a professional AI Engineer.
 
 **Goal**
@@ -9,7 +9,7 @@ To build strong foundations in:
 - Model deployment basics
 - Real-world AI projects
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 This repository will be updated gradually with:
 
 ### 1. Data Scraping & Processing
@@ -28,14 +28,14 @@ This repository will be updated gradually with:
 - Quote scraper & analyzer
 - More real-world datasets
 
-## 🛠 Tech Stack
+## Tech Stack
 - Python 3.10
 - Pandas, NumPy
 - BeautifulSoup
 - Scikit-learn
 - FastAPI (later)
 
-## 📌 Status
+## Status
 🚧 Currently learning **Data Scraping & Preprocessing**
 
 
