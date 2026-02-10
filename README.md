@@ -34,6 +34,7 @@ This repository will be updated gradually with:
 - BeautifulSoup
 - Scikit-learn
 - MySQL
+- Data Analysis
 - FastAPI (later)
 
 ## Status
