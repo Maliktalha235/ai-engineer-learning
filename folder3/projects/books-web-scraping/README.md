@@ -8,7 +8,7 @@ This project demonstrates an end-to-end data engineering workflow:
 - (Future) Machine Learning & analysis
 - Feature engineering
 
-The goal is to simulate a real-world data pipeline used in industry.
+The goal is to simulate a real-world data pipeline used in industry. 
 
 ---
 
