@@ -6,6 +6,7 @@ This project demonstrates an end-to-end data engineering workflow:
 - Data cleaning & preprocessing
 - CSV to MySQL database storage
 - (Future) Machine Learning & analysis
+- Feature engineering
 
 The goal is to simulate a real-world data pipeline used in industry.
 
