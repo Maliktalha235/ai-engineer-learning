@@ -17,3 +17,5 @@
 1. Install requirements
 2. Configure database
 3. Run cli.py
+
+This project is for learning purpose
