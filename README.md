@@ -17,6 +17,8 @@ This repository will be updated gradually with:
 - Web scraping using BeautifulSoup
 - Multi-page scraping
 - Data cleaning & preprocessing using Pandas
+- Live coin price scrapping using API
+- Weather tracker scraping using API
 
 ### 2. Machine Learning
 - Text classification (Spam detection)
@@ -27,6 +29,8 @@ This repository will be updated gradually with:
 - SMS Spam Detector
 - Quote scraper & analyzer
 - More real-world datasets
+- Crypto-prices-analytics-engine
+- Weather Tracker API project
 
 ## Tech Stack
 - Python 3.10
@@ -35,9 +39,11 @@ This repository will be updated gradually with:
 - Scikit-learn
 - MySQL
 - Data Analysis
+- API
+- Jason
 - FastAPI (later)
 
 ## Status
-Currently learning **Data Scraping & Preprocessing**
+Currently learning **Data Scraping using APIs**
 
 This repository will evolve as I grow.
