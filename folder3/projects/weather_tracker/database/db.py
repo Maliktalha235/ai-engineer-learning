@@ -4,7 +4,7 @@ def create_database():
     conn=mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Hitec@123"
+        password="123"
     )
     query="""
         create database if not exists weather_db
@@ -18,7 +18,7 @@ def get_connection():
     conn=mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Hitec@123",
+        password="123",
         database="weather_db"
     )
     return conn
@@ -38,4 +38,5 @@ def create_table():
         """
     cursor.execute(query)
     print("Table created.....")
+
     conn.close()    
