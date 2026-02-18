@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-API_key="2b0f77b42ba9f73dc0df5ff265cd69e2"
+API_key="key"
 
 def fetch_data(city):
     url="https://api.openweathermap.org/data/2.5/weather"
@@ -23,4 +23,5 @@ def fetch_data(city):
         "weather_desc": data["weather"][0]["description"],
         "recorded_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     }
+
     return weather
