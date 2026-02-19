@@ -31,6 +31,7 @@ This repository will be updated gradually with:
 - More real-world datasets
 - Crypto-prices-analytics-engine
 - Weather Tracker API project
+- ARY News Sentiment-Analysis
 
 ## Tech Stack
 - Python 3.10
@@ -41,6 +42,7 @@ This repository will be updated gradually with:
 - Data Analysis
 - API
 - Jason
+- VADER
 - FastAPI (later)
 
 ## Status
