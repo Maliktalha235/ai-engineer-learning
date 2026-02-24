@@ -30,6 +30,11 @@ Scrape → Store → Analyze → Visualize
 6. Visualize sentiment distribution
 
 ---
+## Example Output
+
+- Positive / Negative / Neutral distribution bar chart
+- Sentiment scores stored in database
+- 
 
 ## 🧠 Tech Stack
 
