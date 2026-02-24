@@ -19,11 +19,13 @@ This repository will be updated gradually with:
 - Data cleaning & preprocessing using Pandas
 - Live coin price scrapping using API
 - Weather tracker scraping using API
+- Youtube comments scraping using data API v3
 
 ### 2. Machine Learning
 - Text classification (Spam detection)
 - Feature extraction (TF-IDF)
 - Model training & evaluation
+- NLP
 
 ### 3. Mini Projects
 - SMS Spam Detector
@@ -32,6 +34,7 @@ This repository will be updated gradually with:
 - Crypto-prices-analytics-engine
 - Weather Tracker API project
 - ARY News Sentiment-Analysis
+- Youtube comments Sentiment Analysis
 
 ## Tech Stack
 - Python 3.10
@@ -43,6 +46,7 @@ This repository will be updated gradually with:
 - API
 - Jason
 - VADER
+- Matplotlib
 - FastAPI (later)
 
 ## Status
