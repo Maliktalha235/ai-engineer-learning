@@ -1,0 +1,6 @@
+pandas
+matplotlib
+vaderSentiment
+mysql-connector-python
+requests
+python-dotenv
