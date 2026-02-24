@@ -34,7 +34,10 @@ Scrape → Store → Analyze → Visualize
 
 - Positive / Negative / Neutral distribution bar chart
 - Sentiment scores stored in database
-- 
+---
+## Sentiment Distribution
+
+![Sentiment Graph](youtube_sentiment.png)
 
 ## 🧠 Tech Stack
 
